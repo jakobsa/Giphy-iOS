@@ -1,0 +1,21 @@
+{
+  "name": "AXCGiphy",
+  "version": "0.1.0",
+  "summary": "A short description of AXCGiphy.",
+  "description": "An optional longer description of AXCGiphy\n\n* Markdown format.\n* Don't worry about the indent, we strip it!",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/AXCGiphy",
+  "license": "MIT",
+  "authors": {
+    "Alex Choi": "heyalexchoi@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/AXCGiphy.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes",
+  "resources": "Pod/Assets/*.png"
+}
